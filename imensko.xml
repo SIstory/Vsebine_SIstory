@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<listPerson>
+    <person xml:id="pers-BainbridgeDavid">
+        <persName><surname>Bainbridge</surname><forename>David</forename></persName>
+    </person>
+    <person xml:id="pers-BloudekStanko">
+        <persName><surname>Bloudek</surname><forename>Stanko</forename></persName>
+    </person>
+    <person xml:id="pers-ČelikPavle">
+        <persName><surname>Čelik</surname><forename>Pavle</forename></persName>
+    </person>
+    <person xml:id="pers-CerarMiro">
+        <persName><surname>Cerar</surname><forename>Miro</forename></persName>
+    </person>
+    <person xml:id="pers-CurthoysAnn">
+        <persName><surname>Curthoys</surname><forename>Ann</forename></persName>
+    </person>
+    <person xml:id="pers-CvekAna">
+        <persName><surname>Cvek</surname><forename>Ana</forename></persName>
+    </person>
+    <person xml:id="pers-DvorjakTeja">
+        <persName><surname>Dvorjak</surname><forename>Teja</forename></persName>
+    </person>
+    <person xml:id="pers-GašparičJure">
+        <persName><surname>Gašparič</surname><forename>Jure</forename></persName>
+    </person>
+    <person xml:id="pers-GrafenauerBogo">
+        <persName><surname>Grafenauer</surname><forename>Bogo</forename></persName>
+    </person>
+    <person xml:id="pers-GržinićMarina">
+        <persName><surname>Gržinić</surname><forename>Marina</forename></persName>
+    </person>
+    <person xml:id="pers-JerkičTonja">
+        <persName><surname>Jerkič</surname><forename>Tonja</forename></persName>
+    </person>
+    <person xml:id="pers-žef II.">
+        <persName><surname/><forename>žef II.</forename></persName>
+    </person>
+    <person xml:id="pers-KardeljEdvard">
+        <persName><surname>Kardelj</surname><forename>Edvard</forename></persName>
+    </person>
+    <person xml:id="pers-rl VI.">
+        <persName><surname/><forename>rl VI.</forename></persName>
+    </person>
+    <person xml:id="pers-KennanMary Anne">
+        <persName><surname>Kennan</surname><forename>Mary Anne</forename></persName>
+    </person>
+    <person xml:id="pers-KidričBoris">
+        <persName><surname>Kidrič</surname><forename>Boris</forename></persName>
+    </person>
+    <person xml:id="pers-KonovšekTjaša">
+        <persName><surname>Konovšek</surname><forename>Tjaša</forename></persName>
+    </person>
+    <person xml:id="pers-KosFranc">
+        <persName><surname>Kos</surname><forename>Franc</forename></persName>
+    </person>
+    <person xml:id="pers-LanaganJames">
+        <persName><surname>Lanagan</surname><forename>James</forename></persName>
+    </person>
+    <person xml:id="pers-rija Terezija">
+        <persName><surname/><forename>rija Terezija</forename></persName>
+    </person>
+    <person xml:id="pers-McGrathAnn">
+        <persName><surname>McGrath</surname><forename>Ann</forename></persName>
+    </person>
+    <person xml:id="pers-MedenKatja">
+        <persName><surname>Meden</surname><forename>Katja</forename></persName>
+    </person>
+    <person xml:id="pers-NicholsDavid M.">
+        <persName><surname>Nichols</surname><forename>David M.</forename></persName>
+    </person>
+    <person xml:id="pers-OjsteršekMihael">
+        <persName><surname>Ojsteršek</surname><forename>Mihael</forename></persName>
+    </person>
+    <person xml:id="pers-SimonitiVasko">
+        <persName><surname>Simoniti</surname><forename>Vasko</forename></persName>
+    </person>
+    <person xml:id="pers-SmeatonAlan F.">
+        <persName><surname>Smeaton</surname><forename>Alan F.</forename></persName>
+    </person>
+    <person xml:id="pers-SmiljanićIvan">
+        <persName><surname>Smiljanić</surname><forename>Ivan</forename></persName>
+    </person>
+    <person xml:id="pers-ŠornMojca">
+        <persName><surname>Šorn</surname><forename>Mojca</forename></persName>
+    </person>
+    <person xml:id="pers-ŠtihPeter">
+        <persName><surname>Štih</surname><forename>Peter</forename></persName>
+    </person>
+    <person xml:id="pers-ThompsonKim M.">
+        <persName><surname>Thompson</surname><forename>Kim M.</forename></persName>
+    </person>
+    <person xml:id="pers-VodopivecNina">
+        <persName><surname>Vodopivec</surname><forename>Nina</forename></persName>
+    </person>
+    <person xml:id="pers-VodopivecPeter">
+        <persName><surname>Vodopivec</surname><forename>Peter</forename></persName>
+    </person>
+    <person xml:id="pers-WittenIan H.">
+        <persName><surname>Witten</surname><forename>Ian H.</forename></persName>
+    </person>
+</listPerson>

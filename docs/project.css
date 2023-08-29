@@ -1,0 +1,9 @@
+.tipue_search_button
+{
+     width: 125px;
+     height: 37px;
+     border: 0;
+     border-radius: 1px;
+     background: #8e130b url('search.png') no-repeat center;
+	outline: none;
+}
