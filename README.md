@@ -1,5 +1,4 @@
 # Vsebine in njihovo razporejanje na Portalu zgodovina Slovenije – SIstory 
- (s poudarkom na publikacijah)
 
  Knjiga Mojce Šorn in Ane Cvek
 
