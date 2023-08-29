@@ -1,4 +1,5 @@
-# VSEBINE IN NJIHOVO RAZPOREJANJE NA PORTALU ZGODOVINA SLOVENIJE – SISTORY (s poudarkom na publikacijah)
+# Vsebine in njihovo razporejanje na Portalu zgodovina Slovenije – SIstory 
+ (s poudarkom na publikacijah)
 
  Knjiga Mojce Šorn in Ane Cvek
 
