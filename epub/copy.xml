@@ -1,0 +1,1 @@
+<project basedir="." default="dist" name="imagecopy"><target name="dist"><copy toFile="epub/OPS/media/resource1.png" file="./media/slika2.png"/><copy toFile="epub/OPS/media/resource2.png" file="./media/image1.png"/><copy toFile="epub/OPS/media/resource3.png" file="./media/image1.png"/><copy toFile="epub/OPS/media/resource4.png" file="./media/image2.png"/></target></project>

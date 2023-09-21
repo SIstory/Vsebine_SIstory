@@ -271,7 +271,7 @@
             </docTitle>
             <docAuthor>Mojca Šorn</docAuthor>
             <docAuthor>Ana Cvek</docAuthor>
-            <graphic url="slika2.png"/>
+            <graphic url="media/slika2.png"/>
             <docImprint>
                <publisher>Inštitut za novejšo zgodovino</publisher>
                <pubPlace>Ljubljana</pubPlace>
@@ -322,7 +322,7 @@
                     meniva, da tovrstna obravnava zagotavlja najbolj optimalen pregled nad
                     opravljenim delom sodelavk in sodelavcev infrastrukturnega programa. </p>
             <figure xml:id="vsebine_SIstory-figure-1">
-               <graphic url="image1.png" rend="inline"/>
+               <graphic url="media/image1.png" rend="inline"/>
                <head>Letak, 2008</head>
             </figure>
          </div>
@@ -356,7 +356,7 @@
                     SIstory publications (35.000 less than SISTORY:ID) is still accessible via <ref target="http://www.sistory.si/raw2xml.php?ID=1">XML</ref>. An ID is the
                     SISTORY:ID of the publication containing the PDF file.</p>
             <figure xml:id="vsebine_SIstory-figure-2">
-               <graphic url="image1.png" rend="inline"/>
+               <graphic url="media/image1.png" rend="inline"/>
                <head>Letak, 2008</head>
             </figure>
          </div>
@@ -783,7 +783,7 @@
                     popolnejše delovanje sistema – zagotavljal je kvalitetnejšo uporabniško in
                     administracijsko izkušnjo.</p>
             <figure xml:id="vsebine_SIstory-figure-3">
-               <graphic url="image2.png"/>
+               <graphic url="media/image2.png"/>
                <head>Vstopna stran nadgrajenega portala Zgodovina Slovenije – SIstory,
                         2011.</head>
             </figure>

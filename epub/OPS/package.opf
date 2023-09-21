@@ -1,0 +1,135 @@
+
+<package xmlns="http://www.idpf.org/2007/opf"
+         unique-identifier="pub-id"
+         version="3.0"
+         prefix="rendition: http://www.idpf.org/vocab/rendition#">
+   <metadata xmlns:dcterms="http://purl.org/dc/terms/"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/" id="title">VSEBINE IN NJIHOVO RAZPOREJANJE NA PORTALU ZGODOVINA SLOVENIJE – SISTORY (s poudarkom na publikacijah)</dc:title>
+      <meta property="rendition:layout">reflowable</meta>
+      <meta property="rendition:spread">auto</meta>
+      <meta refines="#title" property="title-type">main</meta>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/" id="creator">Mojca Šorn in Ana Cvek</dc:creator>
+      <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">en</dc:language>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">Zgodovina Slovenije - SIstory</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">spletni portal</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">vsebine</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">publikacije</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">History of Slovenia - SIstory</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">web portal</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">contents</dc:subject>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">piblications</dc:subject>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">http://www.example.com/TEIEPUB/20230921113249</dc:identifier>
+      <meta refines="#pub-id"
+            property="identifier-type"
+            scheme="onix:codelist5">15</meta>
+      <dc:description xmlns:dc="http://purl.org/dc/elements/1.1/">VSEBINE IN NJIHOVO RAZPOREJANJE NA PORTALU ZGODOVINA SLOVENIJE – SISTORY (s poudarkom na publikacijah) / Mojca Šorn in Ana Cvek</dc:description>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Inštitut za novejšo zgodovino</dc:publisher>
+      <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2023</dc:date>
+      <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
+      <meta property="dcterms:modified">2023-09-21T09:32:49Z</meta>
+   </metadata>
+   <manifest>
+      <item id="css" href="stylesheet.css" media-type="text/css"/>
+      <item id="print.css" href="print.css" media-type="text/css"/>
+      <item href="titlepage.html"
+            id="titlepage"
+            media-type="application/xhtml+xml"/>
+      <item href="titlepageback.html"
+            id="titlepageback"
+            media-type="application/xhtml+xml"/>
+      <item id="toc"
+            properties="nav"
+            href="epubtoc.html"
+            media-type="application/xhtml+xml"/>
+      <item id="start" href="index.html" media-type="application/xhtml+xml"/>
+      <item href="cip.html" id="cip" media-type="application/xhtml+xml"/>
+      <item href="toc.html" id="toc" media-type="application/xhtml+xml"/>
+      <item href="ch01.html" media-type="application/xhtml+xml" id="section1"/>
+      <item href="ch01b.html" media-type="application/xhtml+xml" id="section2"/>
+      <item href="ch02.html" media-type="application/xhtml+xml" id="section3"/>
+      <item href="ch03.html" media-type="application/xhtml+xml" id="section4"/>
+      <item href="ch04.html" media-type="application/xhtml+xml" id="section5"/>
+      <item href="ch05.html" media-type="application/xhtml+xml" id="section6"/>
+      <item href="ch06.html" media-type="application/xhtml+xml" id="section7"/>
+      <item href="ch07.html" media-type="application/xhtml+xml" id="section8"/>
+      <item href="ch08.html" media-type="application/xhtml+xml" id="section9"/>
+      <item href="ch09.html" media-type="application/xhtml+xml" id="section10"/>
+      <item href="ch10.html" media-type="application/xhtml+xml" id="section11"/>
+      <item href="ch11.html" media-type="application/xhtml+xml" id="section12"/>
+      <item href="ch12.html" media-type="application/xhtml+xml" id="section13"/>
+      <item href="ch13.html" media-type="application/xhtml+xml" id="section14"/>
+      <item href="ch14.html" media-type="application/xhtml+xml" id="section15"/>
+      <item href="ch15.html" media-type="application/xhtml+xml" id="section16"/>
+      <item href="ch16.html" media-type="application/xhtml+xml" id="section17"/>
+      <item href="ch17.html" media-type="application/xhtml+xml" id="section18"/>
+      <item href="bibl.html" media-type="application/xhtml+xml" id="section19"/>
+      <item href="about_authors.html"
+            media-type="application/xhtml+xml"
+            id="section20"/>
+      <item href="persons.html" id="persons" media-type="application/xhtml+xml"/>
+      <item href="media/slika2.png" id="image-1" media-type="image/png"/>
+      <item href="media/image1.png" id="image-2" media-type="image/png"/>
+      <item href="media/image1.png" id="image-3" media-type="image/png"/>
+      <item href="media/image2.png" id="image-4" media-type="image/png"/>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="titlepage" linear="yes"/>
+      <itemref idref="start" linear="yes"/>
+      <itemref idref="cip" linear="yes"/>
+      <itemref idref="toc" linear="yes"/>
+      <itemref idref="section1" linear="yes"/>
+      <itemref idref="section2" linear="yes"/>
+      <itemref idref="section3" linear="yes"/>
+      <itemref idref="section4" linear="yes"/>
+      <itemref idref="section5" linear="yes"/>
+      <itemref idref="section6" linear="yes"/>
+      <itemref idref="section7" linear="yes"/>
+      <itemref idref="section8" linear="yes"/>
+      <itemref idref="section9" linear="yes"/>
+      <itemref idref="section10" linear="yes"/>
+      <itemref idref="section11" linear="yes"/>
+      <itemref idref="section12" linear="yes"/>
+      <itemref idref="section13" linear="yes"/>
+      <itemref idref="section14" linear="yes"/>
+      <itemref idref="section15" linear="yes"/>
+      <itemref idref="section16" linear="yes"/>
+      <itemref idref="section17" linear="yes"/>
+      <itemref idref="section18" linear="yes"/>
+      <itemref idref="section19" linear="yes"/>
+      <itemref idref="section20" linear="yes"/>
+      <itemref idref="persons" linear="yes"/>
+      <itemref idref="titlepageback" linear="no"/>
+   </spine>
+   <guide>
+      <reference type="text" href="titlepage.html" title="Cover"/>
+      <reference type="text" title="Start" href="index.html"/>
+      <reference type="text" title="Kolofon" href="cip.html"/>
+      <reference type="text" title="Kazalo vsebine" href="toc.html"/>
+      <reference type="text" href="ch01.html" title="Uvod"/>
+      <reference type="text" href="ch01b.html" title="Foreword"/>
+      <reference type="text" href="ch02.html" title="Začetki"/>
+      <reference type="text" href="ch03.html" title="Leto 2009"/>
+      <reference type="text" href="ch04.html" title="Leto 2010"/>
+      <reference type="text" href="ch05.html" title="Leto 2011"/>
+      <reference type="text" href="ch06.html" title="Leto 2012"/>
+      <reference type="text" href="ch07.html" title="Leto 2013"/>
+      <reference type="text" href="ch08.html" title="Leto 2014"/>
+      <reference type="text" href="ch09.html" title="Leto 2015"/>
+      <reference type="text" href="ch10.html" title="Leto 2016"/>
+      <reference type="text" href="ch11.html" title="Leto 2017"/>
+      <reference type="text" href="ch12.html" title="Leto 2018"/>
+      <reference type="text" href="ch13.html" title="Leto 2019"/>
+      <reference type="text" href="ch14.html" title="Leto 2020"/>
+      <reference type="text" href="ch15.html" title="Leto 2021"/>
+      <reference type="text" href="ch16.html" title="Leto 2022"/>
+      <reference type="text" href="ch17.html" title="Zaključek"/>
+      <reference type="text" href="bibl.html" title="Seznam virov in literature"/>
+      <reference type="text" href="about_authors.html" title="O avtoricah"/>
+      <reference type="text" title="Imensko kazalo" href="persons.html"/>
+      <reference href="titlepageback.html" type="text" title="About this book"/>
+   </guide>
+</package>
