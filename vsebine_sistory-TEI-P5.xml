@@ -273,12 +273,11 @@
       <front>
          <titlePage>
             <docTitle>
-               <titlePart>VSEBINE IN NJIHOVO RAZPOREJANJE NA PORTALU ZGODOVINA SLOVENIJE –
-                        SISTORY (s poudarkom na publikacijah)</titlePart>
+               <titlePart>Vsebine in njihovo razporejanje na portalu Zgodovina Slovenije - SIstory (s poudarkom na publikacijah)</titlePart>
             </docTitle>
             <docAuthor>Mojca Šorn</docAuthor>
             <docAuthor>Ana Cvek</docAuthor>
-            <graphic url="media/image1.png"/>
+            <graphic url="slika2.png"/>
             <docImprint>
                <publisher>Inštitut za novejšo zgodovino</publisher>
                <pubPlace>Ljubljana</pubPlace>
@@ -540,23 +539,23 @@
             <list type="ordered" xml:id="vsebine_SIstory-list-5">
                <head>DVD 1, 3. april 2009:</head>
                <item style="text-align:justify">Uradni listi 1948 (VIRI-TISKANI VIRI-URADNI
-                        LISTI: <ref target="http://www.sistory.si/uradni-listi.html">http://www.sistory.si/uradni-listi.html</ref>).</item>
+                        LISTI<!--: <ref target="http://www.sistory.si/uradni-listi.html">http://www.sistory.si/uradni-listi.html</ref>)-->.</item>
                <item style="text-align:justify">Zgodovinski atlas (ZGODOVINA IN ŠOLA-ŠOLSKI
-                        UČBENIKI: <ref target="http://www.sistory.si/solski-ucbeniki.html">http://www.sistory.si/solski-ucbeniki.html</ref>).</item>
+                        UČBENIKI<!--: <ref target="http://www.sistory.si/solski-ucbeniki.html">http://www.sistory.si/solski-ucbeniki.html</ref>)-->.</item>
             </list>
             <list type="ordered" xml:id="vsebine_SIstory-list-6">
                <head>DVD 2, 3. april 2009:</head>
                <item style="text-align:justify">Zgodovina za vse (1994–2005)
-                        (LITERATURA-SERIJSKE PUBLIKACIJE-ZGODOVINA ZA VSE: <ref target="http://www.sistory.si/literatura.html">http://www.sistory.si/literatura.html</ref>).</item>
+                        (LITERATURA-SERIJSKE PUBLIKACIJE-ZGODOVINA ZA VSE<!--: <ref target="http://www.sistory.si/literatura.html">http://www.sistory.si/literatura.html</ref>)-->.</item>
                <item style="text-align:justify">Prispevki za novejšo zgodovino 2006
-                        (LITERATURA-SERIJSKE PUBLIKACIJE-PRISPEVKI ZA NOVEJŠO ZGODOVINO: <ref target="http://www.sistory.si/prispevki.html">http://www.sistory.si/prispevki.html</ref>).</item>
+                        (LITERATURA-SERIJSKE PUBLIKACIJE-PRISPEVKI ZA NOVEJŠO ZGODOVINO<!--: <ref target="http://www.sistory.si/prispevki.html">http://www.sistory.si/prispevki.html</ref>)-->.</item>
                <item style="text-align:justify">Arhivi (2000–2006) (LITERATURA-SERIJSKE
-                        PUBLIKACIJE – NOVA PODRUBRIKA Z IMENOM ARHIVI: <ref target="http://www.sistory.si/literatura.html">http://www.sistory.si/literatura.html</ref>).</item>
+                        PUBLIKACIJE – NOVA PODRUBRIKA Z IMENOM ARHIVI<!--: <ref target="http://www.sistory.si/literatura.html">http://www.sistory.si/literatura.html</ref>)-->.</item>
             </list>
             <list type="ordered" xml:id="vsebine_SIstory-list-7">
                <head>DVD 3, 15. april 2009:</head>
                <item style="text-align:justify"> 1. Prispevki za novejšo zgodovino 2005, št. 1
-                        in 2 (LITERATURA-SERIJSKE PUBLIKACIJE-PRISPEVKI ZA NOVEJŠO ZGODOVINO: <ref target="http://www.sistory.si/prispevki.html">http://www.sistory.si/prispevki.html</ref>).</item>
+                        in 2 (LITERATURA-SERIJSKE PUBLIKACIJE-PRISPEVKI ZA NOVEJŠO ZGODOVINO<!--: <ref target="http://www.sistory.si/prispevki.html">http://www.sistory.si/prispevki.html</ref>)-->.</item>
             </list>
             <p style="text-align:justify" xml:id="vsebine_SIstory-p-29">Konec leta 2009 smo bili prepričani, da verificirane
                     vsebine, ki so bile na portalu javno dostopne širši zainteresirani javnosti,
@@ -870,8 +869,8 @@
                      <item style="text-align:justify">Tiskani viri:<list type="unordered">
                            <item style="text-align:justify">Ustvarjeni so bili podsklopi
                                             <hi rend="naslov">Ljubljanski klasiki 1563</hi>–<hi rend="naslov">1965</hi> za več kot 700 strani obsežen
-                                        korpus, <ref target="javascript:void(0);">Mittheilungen des
-                                            historischen Vereins für Krain (1856–1860</ref>) in
+                                        korpus, Mittheilungen des
+                                            historischen Vereins für Krain (1856–1860) in
                                         Stenografski zapisniki Ljudske skupščine LRS s 35
                                         publikacijami iz obdobja 1947–1963.</item>
                            <item style="text-align:justify">Dopolnjen je bil sklop Krajevni
@@ -1631,7 +1630,7 @@
                                     1830–1931:<list rend="unordered">
                            <item style="text-align:justify">V letu 2015 smo se ukvarjali s
                                         popisi prebivalstva občine Vrhnika 1870, 1880, 1890, 1900 in
-                                        1910 (<ref target="http://sistory.si/publikacije/?menu=737">http://sistory.si/publikacije/?menu=737</ref> ):<list>
+                                        1910 <!--(<ref target="http://sistory.si/publikacije/?menu=737">http://sistory.si/publikacije/?menu=737</ref> )-->:<list>
                                  <item style="text-align:justify">izdelali smo dokumente
                                                 XML za uvoz vseh petih popisov (3187 slik skupaj z
                                                 osnovnimi podatki o hišah in podatki za 7660 oseb), </item>
@@ -1675,14 +1674,14 @@
                                             TEI<note place="foot" xml:id="ftn38" n="38">
                                  <hi rend="italic">TEI: Text Encoding Initiative</hi>,
                                                 <ref target="https://tei-c.org/">https://tei-c.org/</ref>, pridobljeno 19. 7.
-                                            2023.</note> (objava na <ref target="https://github.com/SIstory/Sejni_zapiski">https://github.com/SIstory/Sejni_zapiski</ref> in <ref target="http://sistory.si/publikacije/?menu=729">http://sistory.si/publikacije/?menu=729</ref>),</item>
+                                            2023.</note> (objava na <ref target="https://github.com/SIstory/Sejni_zapiski">https://github.com/SIstory/Sejni_zapiski</ref>)<!-- in <ref target="http://sistory.si/publikacije/?menu=729">http://sistory.si/publikacije/?menu=729</ref>)-->,</item>
                            <item style="text-align:justify">pripravili in zapisali smo
                                         krajše stile XSLT za pretvorbo delov dokumentov, </item>
                            <item style="text-align:justify">določili smo postopek in
                                         pripravo programa za označevanje govorov sej državnega zbora
                                         po letu 1990, ki so objavljeni na spletni strani državnega
                                         zbora. Besedilo je označeno po smernicah TEI (objavljeno na
-                                            <ref target="https://github.com/SIstory/Seje_DZ">https://github.com/SIstory/Seje_DZ</ref> ),<list>
+                                            <ref target="https://github.com/SIstory/Seje_DZ">https://github.com/SIstory/Seje_DZ</ref>),<list>
                                  <item style="text-align:justify">narejena je bila krajša
                                                 analiza skupščinskega govora v času demokratizacije
                                                 konec osemdesetih let: <persName ref="#pers-GašparičJure">GAŠPARIČ,
@@ -1715,8 +1714,8 @@
                            <item style="text-align:justify">nabor 203 dokumentov in
                                         priprava za spletno objavo,</item>
                            <item style="text-align:justify">kodiranje v zapisu XML po
-                                        smernicah TEI (objavljeno na <ref target="https://github.com/SIstory/PoliticalParties-Programs">https://github.com/SIstory/PoliticalParties-Programs</ref>
-                                        in <ref target="http://sistory.si/publikacije/?menu=726">http://sistory.si/publikacije/?menu=726</ref>).</item>
+                                        smernicah TEI (objavljeno na <ref target="https://github.com/SIstory/PoliticalParties-Programs">https://github.com/SIstory/PoliticalParties-Programs</ref>)<!--
+                                        in <ref target="http://sistory.si/publikacije/?menu=726">http://sistory.si/publikacije/?menu=726</ref>)-->.</item>
                         </list>
                      </item>
                      <item style="text-align:justify">Projekt Zbiranje podatkov o vojaških
