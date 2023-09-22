@@ -20,8 +20,8 @@
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">History of Slovenia - SIstory</dc:subject>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">web portal</dc:subject>
       <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">contents</dc:subject>
-      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">piblications</dc:subject>
-      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">http://www.example.com/TEIEPUB/20230921113249</dc:identifier>
+      <dc:subject xmlns:dc="http://purl.org/dc/elements/1.1/">publications</dc:subject>
+      <dc:identifier xmlns:dc="http://purl.org/dc/elements/1.1/" id="pub-id">http://www.example.com/TEIEPUB/20230922084014</dc:identifier>
       <meta refines="#pub-id"
             property="identifier-type"
             scheme="onix:codelist5">15</meta>
@@ -29,7 +29,7 @@
       <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Inštitut za novejšo zgodovino</dc:publisher>
       <dc:date xmlns:dc="http://purl.org/dc/elements/1.1/" id="epub-publication">2023</dc:date>
       <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Creative Commons Attribution</dc:rights>
-      <meta property="dcterms:modified">2023-09-21T09:32:49Z</meta>
+      <meta property="dcterms:modified">2023-09-22T06:40:14Z</meta>
    </metadata>
    <manifest>
       <item id="css" href="stylesheet.css" media-type="text/css"/>
